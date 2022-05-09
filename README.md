@@ -1,5 +1,5 @@
 # Repo1
 
-This Repository is for SoluteLabs' weekly mini-projects.
+This Repository is for SoluteLabs' mini-practice-projects.
 
-This is my first change.
+
